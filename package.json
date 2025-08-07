@@ -3,7 +3,7 @@
   "displayName": "jsx-extractor",
   "publisher": "lesaaly",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "engines": {
     "vscode": "^1.102.0"
