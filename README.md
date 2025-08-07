@@ -1,8 +1,3 @@
-![Version](https://vsmarketplacebadge.apphb.com/version/lesaaly.jsx-extractor.svg)
-![Installs](https://vsmarketplacebadge.apphb.com/installs/lesaaly.jsx-extractor.svg)
-![Downloads](https://vsmarketplacebadge.apphb.com/downloads/lesaaly.jsx-extractor.svg)
-![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
-
 # 🚀 JSX Extractor
 
 🧩 A VS Code extension that helps you extract selected JSX code into a standalone React component in just a few seconds.
